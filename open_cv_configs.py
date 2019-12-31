@@ -3,7 +3,7 @@ Most frequently need function while writing open cv code
 
 To make donkey work faster :D
 
-Note : still in progress
+Note : file still in progress
 """
 import cv2
 import os
